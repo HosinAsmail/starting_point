@@ -48,3 +48,5 @@ flutter_assets:
   assets_path: assets/
   output_path: lib/core/constant/
   filename: app_assets.dart
+flutter_intl:  
+  enabled: true
